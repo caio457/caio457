@@ -53,7 +53,7 @@ Novos projetos e tecnologias serão adicionados em breve!
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-## Hi there 👋
+
 
 <!--
 **caio457/caio457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
